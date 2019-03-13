@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="35px" viewBox="0 0 40 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>留言</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-1343.000000, -2299.000000)" stroke="#888888">
+            <g id="留言" transform="translate(1343.000000, 2296.000000)">
+                <path d="M22.515191,36 C22.515191,36 22.205534,32.5111474 23.266915,32.3727959 C32.2036343,31.2078903 39,25.3467644 39,18.2916284 C39,10.39858 30.4934102,4 20,4 C9.50658975,4 1,10.39858 1,18.2916284 C1,25.1525866 7.42740275,30.8843556 16.000153,32.2660119 C17.2897471,32.4738537 22.515191,36 22.515191,36 Z" id="Oval-3" stroke-width="2" fill="#FFFFFF"></path>
+                <circle id="Oval" stroke-width="1" fill="#888888" cx="10" cy="18" r="1"></circle>
+                <circle id="Oval" stroke-width="1" fill="#888888" cx="20" cy="18" r="1"></circle>
+                <circle id="Oval" stroke-width="1" fill="#888888" cx="30" cy="18" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

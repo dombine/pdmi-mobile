@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>活动</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M25.8732089,10 L38,10 L38,33 L29.4360459,33 C29.4360459,33 25.8732089,32.2177734 25.8732089,29.5925926 C25.8732089,25.370815 25.8732089,10 25.8732089,10 Z" id="path-1"></path>
+        <path d="M23.9935173,6 C26.2062366,6 28,7.78563292 28,10.0062943 L28,24.9937057 C28,27.206321 26.2188683,29 23.9941722,29 L5.30126394,29 L5.30126394,29 C5.13014403,29 5.01547875,27.2143671 5.04539395,24.9937057 L5.30126394,6 C10.1428483,6 23.9935173,6 23.9935173,6 Z" id="path-2"></path>
+    </defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-281.000000, -1398.000000)">
+            <g id="huodong-" transform="translate(279.000000, 1396.000000)">
+                <path d="M6,3 L6,36.515148" id="Line" stroke="#888888" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M3.5,37 L8.5,37" id="Line" stroke="#888888" stroke-width="2" stroke-linecap="square"></path>
+                <g id="Rectangle-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#888888" stroke-width="2" d="M26.8732089,10.5275241 C26.8732089,11.0456102 26.8732089,11.647739 26.8732089,14.1413882 L26.8732089,29.5925926 C26.8732089,30.3291605 27.323914,30.9262484 28.1614733,31.4187024 C28.488024,31.6107022 28.8453284,31.76813 29.2032522,31.8906672 C29.3496767,31.9407964 29.4707135,31.9769218 29.5567403,32 L37,32 L37,11 L26.8732089,11 L26.8732089,10.5275241 Z"></path>
+                </g>
+                <g id="Rectangle-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#888888" stroke-width="2" d="M6.28788337,7 L6.04530323,25.0071758 C6.0310714,26.063631 6.04998658,27.0480625 6.09590067,27.765757 C6.1011925,27.8484748 6.10679549,27.9266934 6.11264627,28 L23.9941722,28 C25.6618187,28 27,26.6588094 27,24.9937057 L27,10.0062943 C27,8.34101812 25.6570558,7 23.9935173,7 L13.8240277,7 C9.437316,7 8.92949775,7 6.40824756,7 L6.28788337,7 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

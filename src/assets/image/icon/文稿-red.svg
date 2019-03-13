@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 44 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>选题 copy 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,5.47838093 C9,4.10960894 10.1160385,3 11.4762705,3 L32.1389266,3 L52.5,24.5774515 L52.5,54.5096931 C52.5,55.8850516 51.3809991,57 50.0208359,57 L11.4791641,57 C10.1099596,57 9,55.8968596 9,54.5216191 L9,5.47838093 Z" id="path-1"></path>
+    </defs>
+    <g id="媒资列表／审核" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="1">
+        <g id="Artboard" transform="translate(-1972.000000, -990.000000)">
+            <g id="文件" transform="translate(1963.000000, 987.000000)">
+                <g id="Rectangle-12">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#ef4f4f" stroke-width="2" d="M51.5,24.97478 L31.707624,4 L11.4762705,4 C10.6655072,4 10,4.66470705 10,5.47838093 L10,54.5216191 C10,55.3418656 10.6595314,56 11.4791641,56 L50.0208359,56 C50.8313958,56 51.5,55.3300783 51.5,54.5096931 L51.5,24.97478 Z"></path>
+                </g>
+                <path d="M18,36 L40.5,36" id="Path-10" stroke="#ef4f4f" stroke-width="2"></path>
+                <path d="M18,43.5 L30,43.5" id="Path-11" stroke="#ef4f4f" stroke-width="2"></path>
+                <polyline id="Path-12" stroke="#ef4f4f" stroke-width="2" points="33 4.5 33.4470867 25.1654256 52.5 25.5"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="40px" viewBox="0 0 36 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>日历</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2" y="4" width="36" height="36" rx="6.66666667"></rect>
+    </defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-283.000000, -1082.000000)">
+            <g id="日历ico" transform="translate(281.000000, 1082.000000)">
+                <g id="Rectangle-3">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#888888" stroke-width="2" x="3" y="5" width="34" height="34" rx="6.66666667"></rect>
+                </g>
+                <path d="M3.125,13 L36.875,13" id="Line" stroke="#888888" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M13,1 L13,9" id="Line" stroke="#888888" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M27,1 L27,9" id="Line" stroke="#888888" stroke-width="2" stroke-linecap="square"></path>
+                <rect id="Rectangle-4" stroke="#888888" stroke-width="2" x="23" y="25" width="4" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

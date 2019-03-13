@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>选题完成灰色</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-750.000000, -2154.000000)">
+            <g id="完成" transform="translate(749.000000, 2153.000000)">
+                <g id="勾选" transform="translate(2.000000, 2.000000)">
+                    <circle id="Oval" stroke="#888888" stroke-width="2" cx="18" cy="18" r="18"></circle>
+                    <polygon id="check-icon" fill="#888888" points="4 20.28 13.7766667 30.08 32.8633333 10.9466667 30.7246094 9.03515625 13.7766667 26.1113281 6.42089844 18.1416016"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

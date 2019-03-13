@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="24px" viewBox="0 0 37 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>附件</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-284.000000, -1826.000000)" stroke="#979797" stroke-width="2">
+            <g id="附件" transform="translate(283.000000, 1818.000000)">
+                <rect id="Rectangle-6" transform="translate(21.000000, 20.000000) scale(-1, -1) translate(-21.000000, -20.000000) " x="11" y="16" width="20" height="8" rx="4"></rect>
+                <path d="M13.3749482,9 L18.2323088,24 L29.4949913,24 C33.6410938,24 37,20.642614 37,16.5 C37,12.3638223 33.6406138,9 29.5046201,9 L14.4900979,9 C13.5881432,9 13.0901142,9 12.7723621,9 L13.3749482,9 Z" id="Rectangle-6"></path>
+                <path d="M2.52388283,9 L12.0681912,31 L16.4024803,31 C22.4834921,31 27.4072266,26.076813 27.4072266,20 C27.4072266,13.9239563 22.4823353,9 16.4059548,9 L4.51844081,9 C2.905262,9 2.20657312,9 1.78140151,9 L2.52388283,9 Z" id="Rectangle-6" transform="translate(14.703613, 20.000000) scale(-1, -1) translate(-14.703613, -20.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

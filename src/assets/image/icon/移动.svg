@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>移动</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="移动" stroke="#ef4f4f">
+            <g id="签发-copy-2" transform="translate(2.000000, 14.000000)">
+                <path d="M16,6 L2,6" id="Path-9" stroke-width="2"></path>
+                <path d="M33.4234891,6 L19,6" id="Path-9-Copy" stroke-width="2"></path>
+                <polyline id="Path-10" stroke-width="2" points="5.70141602 0 0 5.52325501 5.70141602 12.3652344"></polyline>
+                <polyline id="Path-10-Copy" stroke-width="2" transform="translate(31.850708, 6.182617) scale(-1, 1) translate(-31.850708, -6.182617) " points="34.701416 0 29 5.52325501 34.701416 12.3652344"></polyline>
+            </g>
+            <g id="签发-copy-3" transform="translate(19.503906, 20.083984) rotate(-270.000000) translate(-19.503906, -20.083984) translate(1.503906, 13.083984)">
+                <path d="M16,7 L2,7" id="Path-9" stroke-width="2"></path>
+                <path d="M34.4234891,7 L20,7" id="Path-9-Copy" stroke-width="2"></path>
+                <polyline id="Path-10" stroke-width="2" points="5.86401367 0.529052734 0.0151367188 6.92626953 5.86401367 13.3914795"></polyline>
+                <polyline id="Path-10-Copy" stroke-width="2" transform="translate(32.770081, 6.935791) scale(-1, 1) translate(-32.770081, -6.935791) " points="35.5401611 0.505859375 30 6.93579102 35.5401611 13.3657227"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="34px" viewBox="0 0 38 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>附件-图片</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="4" width="38" height="33" rx="2.62068966"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="上传附件" transform="translate(-61.000000, -135.000000)">
+            <g id="图片" transform="translate(60.000000, 131.000000)">
+                <g id="Rectangle-11">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#888888" stroke-width="2" x="2" y="5" width="36" height="31" rx="2.62068966"></rect>
+                </g>
+                <circle id="Oval-3" stroke="#888888" stroke-width="2" cx="9.5" cy="12.5" r="2.5"></circle>
+                <polyline id="Path-9" stroke="#888888" stroke-width="2" transform="translate(20.500000, 29.000000) scale(-1, 1) translate(-20.500000, -29.000000) " points="3 36.6176161 12.6113074 21 19.4209995 30.600481 25.4432105 23.857057 38 37"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

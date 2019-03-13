@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="14px" viewBox="0 0 23 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>下箭头</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="报线索" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="报选题-copy" transform="translate(-2912.000000, -446.000000)" stroke-width="3" stroke="#888888">
+            <g id="Group-2" transform="translate(2231.000000, 111.000000)">
+                <polyline id="下箭头" transform="translate(692.727743, 341.265141) rotate(90.000000) translate(-692.727743, -341.265141) " points="687.462601 331.537399 697.992884 341.041338 687.462601 350.992884"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

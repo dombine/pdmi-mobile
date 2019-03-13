@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="40px" viewBox="0 0 42 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>修改</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编辑" transform="translate(1.000000, -1.000000)" stroke="#ef4f4f">
+            <path d="M32,24 L32,36.0118794 C32,38.2144576 30.0940857,40 27.7506471,40 L4.24935293,40 C1.90250011,40 0,38.2109725 0,36.0118794 L0,11.9881206 C0,9.78554239 1.90591431,8 4.24935293,8 L21.8925781,8" id="Rectangle" stroke-width="2"></path>
+            <path d="M14,28 L22.4691049,25.6095914 L39.8616326,7.88556164 C39.8616326,7.88556164 40.7392808,5.08658321 38.0738493,2.94971791 C35.4084178,0.812852612 32.4386083,2.94971791 32.4386083,2.94971791 L16.4075349,19.7270858 L14,28 Z" id="Path-2" stroke-width="2"></path>
+            <path d="M15.5,19.5 L21.5827625,25.5827625" id="Line" stroke-width="1" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

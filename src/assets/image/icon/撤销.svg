@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="36px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>撤销</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="图标" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="撤销" transform="translate(-2.000000, -2.000000)" stroke="#ef4f4f">
+            <g id="提交-copy-2" stroke-width="1" fill-rule="evenodd" transform="translate(3.000000, 3.000000)">
+                <polyline id="Path-2" stroke-width="2" points="14.9404399 33.7335938 -4.54747351e-13 33.7335937 -4.54747351e-13 0 33.4627994 0 33.4627994 17.7335938 33.4627994 13.7335938"></polyline>
+            </g>
+            <path d="M24.8612562,36.5751597 C31.9027448,36.5751597 35.4234891,36.5751597 35.4234891,36.5751597 C35.4234891,36.5751597 38.4341744,35.3026825 38.5375532,31.2875799 C38.6064725,28.6108448 37.5684511,26.8483181 35.4234891,26 L18,26" id="Path-9" stroke-width="2"></path>
+            <polyline id="Path-10" stroke-width="2" points="21.701416 20.324707 16 25.847962 21.701416 32.6899414"></polyline>
+        </g>
+    </g>
+</svg>

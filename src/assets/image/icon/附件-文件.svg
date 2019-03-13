@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="36px" viewBox="0 0 30 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>附件-文件</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,4.47442579 C6,3.10783816 7.10939636,2 8.47844591,2 L21.4259511,2 L35,16.3849677 L35,35.520481 C35,36.8898815 33.880935,38 32.5149398,38 L8.4850602,38 C7.11259935,38 6,36.8831153 6,35.5255742 L6,4.47442579 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="上传附件" transform="translate(-66.000000, -233.000000)">
+            <g id="文件" transform="translate(60.000000, 231.000000)">
+                <g id="Rectangle-12">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#888888" stroke-width="2" d="M34,16.7822962 L20.9946484,3 L8.47844591,3 C7.66141656,3 7,3.6603882 7,4.47442579 L7,35.5255742 C7,36.3335592 7.66761903,37 8.4850602,37 L32.5149398,37 C33.331783,37 34,36.334469 34,35.520481 L34,16.7822962 Z"></path>
+                </g>
+                <path d="M12,24 L27,24" id="Path-10" stroke="#888888" stroke-width="2"></path>
+                <path d="M12,29 L20,29" id="Path-11" stroke="#888888" stroke-width="2"></path>
+                <polyline id="Path-12" stroke="#888888" stroke-width="2" points="22 3 22.2980578 16.7769504 35 17"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

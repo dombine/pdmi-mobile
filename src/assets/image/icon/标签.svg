@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="35px" viewBox="0 0 38 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>标签</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.4247515,13.0671612 C11.847022,11.3732148 14.7867947,10 16.9992748,10 L39.0007252,10 C41.2094637,10 43,11.7842933 43,13.990053 L43,30.009947 C43,32.2135924 41.2132053,34 39.0007252,34 L16.9992748,34 C14.7905363,34 11.8528728,32.6131412 10.4507035,30.9179404 L5.54929647,24.9922158 C4.14135891,23.2900413 4.14712715,20.5439099 5.57524848,18.8429951 L10.4247515,13.0671612 Z" id="path-1"></path>
+    </defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-280.000000, -1501.000000)">
+            <g id="标签" transform="translate(279.000000, 1499.000000)">
+                <g id="Rectangle-19" transform="translate(23.000000, 22.000000) rotate(-143.000000) translate(-23.000000, -22.000000) ">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#888888" stroke-width="2" d="M11.1905999,13.7101824 L6.34109682,19.4860163 C5.22544329,20.8147771 5.21757175,23.0222034 6.31985944,24.354852 L11.2212665,30.2805765 C12.435546,31.7486215 15.0918645,33 16.9992748,33 L39.0007252,33 C40.66,33 42,31.6622254 42,30.009947 L42,13.990053 C42,12.3379079 40.658509,11 39.0007252,11 L16.9992748,11 C15.0837488,11 12.4238118,12.2414077 11.1905999,13.7101824 Z"></path>
+                </g>
+                <circle id="Oval-5" stroke="#888888" stroke-width="2" transform="translate(26.501126, 25.501126) rotate(-143.000000) translate(-26.501126, -25.501126) " cx="26.5011263" cy="25.5011263" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

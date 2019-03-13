@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>待审 copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="13" cy="13" r="13"></circle>
+    </defs>
+    <g id="媒资列表／审核" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1825.000000, -754.000000)">
+            <g id="待审" transform="translate(1825.000000, 754.000000)">
+                <g id="Oval-9">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#F5A623" stroke-width="2" cx="13" cy="13" r="12"></circle>
+                </g>
+                <path d="M13,2.03125 L13,4.46875" id="Path-13" stroke="#F5AA2F" stroke-width="2"></path>
+                <path d="M21.9375,13 L24.375,13" id="Path-13" stroke="#F5AA2F" stroke-width="2"></path>
+                <path d="M1.625,13 L4.0625,13" id="Path-13-Copy" stroke="#F5AA2F" stroke-width="2"></path>
+                <path d="M12.650313,12.8277231 L14.3266931,8.59860395 C14.5170853,8.11672249 14.2848997,7.57202769 13.8093835,7.37890011 C13.3292237,7.18858506 12.7914818,7.42108817 12.6010896,7.9010946 L10.5625,13.047101 L14.5486625,19.0828069 C14.7279098,19.353748 15.0223211,19.5 15.3223049,19.5 C15.498766,19.5 15.6780133,19.4493743 15.8368283,19.3424979 C16.263121,19.055619 16.3782851,18.4734237 16.0940899,18.042168 L12.650313,12.8277231" id="Fill-177" fill="#F6A623" fill-rule="evenodd"></path>
+                <path d="M13,22.34375 L13,24.78125" id="Path-13" stroke="#F5AA2F" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

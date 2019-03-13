@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="31px" viewBox="0 0 39 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>多人</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-280.000000, -1302.000000)" stroke="#888888" stroke-width="2" fill="#FFFFFF">
+            <g id="参与者" transform="translate(279.000000, 1297.000000)">
+                <circle id="Oval" cx="28" cy="15" r="6"></circle>
+                <path d="M16.0357422,33.3008642 C15.6683586,27.6554072 18.0445059,24 27.2958409,24 C36.547176,24 38.7760052,29.4057495 38.5549917,33.8725561" id="Path-10"></path>
+                <circle id="Oval" cx="15.5" cy="13.5" r="7.5"></circle>
+                <path d="M2.04275845,34.3051139 C1.60325668,27.4431135 4.44584665,23 15.5132379,23 C26.5806291,23 29.2469821,29.5706382 28.9825832,35" id="Path-10"></path>
+            </g>
+        </g>
+    </g>
+</svg>

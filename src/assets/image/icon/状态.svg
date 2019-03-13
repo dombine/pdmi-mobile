@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="32px" viewBox="0 0 38 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>状态</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-283.000000, -795.000000)">
+            <g id="状态" transform="translate(282.000000, 790.000000)">
+                <path d="M34,21 C34,12.7157288 27.2367404,6 18.893837,6 C14.0650068,6 9.76536292,8.24979308 7,11.7513482" id="Oval-3" stroke="#888888" stroke-width="2"></path>
+                <path d="M32,26.7812096 C29.2379372,23.2625891 24.9313422,21 20.0930142,21 C11.7573726,21 5.91992188,27.7157288 5.91992188,36" id="Oval-3-Copy" stroke="#888888" stroke-width="2" transform="translate(18.959961, 28.500000) scale(1, -1) translate(-18.959961, -28.500000) "></path>
+                <polygon id="Path-10" fill="#888888" fill-rule="evenodd" points="1 24 12 24 6.5 18"></polygon>
+                <polygon id="Path-10" fill="#888888" fill-rule="evenodd" transform="translate(33.500000, 21.000000) scale(1, -1) translate(-33.500000, -21.000000) " points="28 24 39 24 33.5 18"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

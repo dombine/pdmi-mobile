@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="39px" viewBox="0 0 37 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>审核红</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="报选题／选题列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-348.000000, -2153.000000)" stroke-width="2" stroke="#F85759">
+            <g id="审核红" transform="translate(349.000000, 2154.000000)">
+                <polyline id="Path-2" points="7.84621163 36.46875 0 36.46875 0 0 34.9937771 0 34.9937771 36.46875 27.8459527 36.46875"></polyline>
+                <path d="M20.0969766,19.6552162 L20.0969766,23.988989 L25.0786062,23.988989 L25.0786062,23.988989 C27.768383,23.988989 29.948878,26.169484 29.948878,28.8592608 L5,28.8592608 C5,26.169484 7.18049496,23.988989 9.8702718,23.988989 L9.8702718,23.988989 L14.6724294,23.988989 L14.6724294,19.5827667 C12.2407866,18.5623623 10.5441951,16.2545416 10.5441951,13.5710016 C10.5441951,9.94193764 13.646971,7 17.474439,7 C21.301907,7 24.4046829,9.94193764 24.4046829,13.5710016 C24.4046829,16.3200841 22.6242045,18.6748701 20.0969766,19.6552162 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
